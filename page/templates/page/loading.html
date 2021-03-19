@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <style>
+
+      </style>
+    <meta charset="utf-8">
+    {% load static %}
+    <link rel="stylesheet" type="text/css" href="{% static 'page/style.css' %}">
+    <link rel="icon" type="image/png" href="{% static 'page/favicon.ico' %}">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="{% static 'page/script.js' %}"></script>
+    <title>Předvídač známek</title>
+  </head>
+  <body onload="load({{ pololeti }})">
+    <img src="{% static 'page/loading.gif' %}">
+  </body>
+</html>
+

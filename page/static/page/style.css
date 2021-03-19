@@ -1,0 +1,53 @@
+.predmet-radek{
+    height: 50px;
+}
+
+.leva{
+    display: inline-block;
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.znamky{
+    display: inline-block;
+}
+
+.znamka-v{
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.znamka-v:focus-within{
+    border: 2px solid red;
+}
+
+.added{
+    margin-right: 4px;
+}
+
+.znamka{
+    background-color: palegreen;
+}
+.vaha{
+    background-color: deepskyblue;
+}
+
+.inactive .znamka{
+    background-color: gray;
+}
+
+.znamka-add{
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 1.3rem;
+    width: 20px;
+    padding: 0;
+}
+
+input{
+    display: block;
+}

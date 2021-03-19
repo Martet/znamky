@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a8a538d-92b7-48d8-b4e1-46b52e359e56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/znamky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/bak.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/static/page/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/static/page/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/static/page/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/static/page/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/templates/page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/templates/page/loading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/templates/page/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/znamky/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/znamky/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/znamky/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/znamky/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/znamky/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X1gseAxMEnAYNll5nIQxC5DKGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Documents\znamky\page\static\page" />
+      <recent name="C:\Users\marti\Documents\znamky\page" />
+      <recent name="C:\Users\marti\Documents\znamky" />
+      <recent name="C:\Users\marti\Documents\znamky\page\migrations" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Documents\znamky\page" />
+      <recent name="C:\Users\marti\Documents\znamky\znamky" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a8a538d-92b7-48d8-b4e1-46b52e359e56" name="Default Changelist" comment="" />
+      <created>1580219222310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580219222310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="97" key="#Inspections" timestamp="1580285690667">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="97" key="#Inspections/0.0.1463.874@0.0.1463.874" timestamp="1580285690667" />
+    <state x="187" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580758478135">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="187" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1580758478135" />
+    <state x="387" y="33" key="CommitChangelistDialog2" timestamp="1581344088072">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="387" y="33" key="CommitChangelistDialog2/0.0.1463.874@0.0.1463.874" timestamp="1581344088072" />
+    <state x="139" y="76" key="DiffContextDialog" timestamp="1581254608888">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="139" y="76" key="DiffContextDialog/0.0.1463.874@0.0.1463.874" timestamp="1581254608888" />
+    <state x="512" y="193" key="FileChooserDialogImpl" timestamp="1583759139018">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="193" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1583759139018" />
+    <state x="241" y="81" key="SettingsEditor" timestamp="1580758461935">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="241" y="81" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1580758461935" />
+    <state x="324" y="171" key="Vcs.Push.Dialog.v2" timestamp="1580812379563">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="171" key="Vcs.Push.Dialog.v2/0.0.1463.874@0.0.1463.874" timestamp="1580812379563" />
+    <state x="428" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1580377954538">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="428" y="263" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1580377954538" />
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1580334238578">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1580334238578" />
+  </component>
+</project>

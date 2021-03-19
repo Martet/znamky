@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="{% static 'page/favicon.ico' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'page/style.css' %}">
+    <title>Přihlásit</title>
+</head>
+<body>
+    {% if uzivatel %}
+    <b>Změnit uživatele:</b>
+    {% endif %}
+    <form action = "/login" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Odeslat">
+        <br>
+        {% if uzivatel %}
+            <p>Přihlášený: {{ jmeno }} - <a href="/">Přihlásit se</a> - <a href="/login?a=logoff">Odhlásit se</a></p>
+        {% endif %}
+
+</form>
+</body>
+</html>

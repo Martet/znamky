@@ -1,0 +1,5 @@
+django
+gunicorn
+django-heroku
+bs4
+requests

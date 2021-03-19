@@ -1,0 +1,33 @@
+ {% if znamky|length > 0 %}
+    {% for predmet,znamka in znamky.items %}
+      <div class="predmet-radek">
+        <div class="leva" title="{{ predmet }}">
+          {{ predmet }}
+          <div class="prumer" title="vážený průměr za pololetí"></div>
+        </div>
+          <div class="znamky">
+            {% for zn in znamka %}
+              <div class="znamka-v" title="{{ zn.nazev }} {{ zn.datum }}">
+                <div class="znamka" contentEditable="true">{{ zn.znamka }}</div>
+                <div class="vaha" contentEditable="true">{{ zn.vaha }}</div>
+              </div>
+            {% endfor %}
+            <button class="znamka-add" type="button" onclick="addZnamka($(this))">+</button>
+          </div>
+      </div>
+    {% endfor %}
+ {% else %}
+    <div class="zadne-znamky">
+        <p>Žádné známky!</p>
+    </div>
+ {% endif %}
+
+ <div class="prihlaseni">
+   {{ jmeno }} - {{ username }}
+     <a href="/login">Změnit uživatele</a>
+ </div>
+
+ <div class="skola">
+     {{ skola }}
+ </div>
+
